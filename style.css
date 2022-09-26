@@ -1,7 +1,14 @@
 /*
-Color Palette:
-background color:  
-font color:        
-secondary color:   
-tertiary color:    
+Color Palette: 
+background color: #8BBCCC
+font color: #4C6793
+secondary color: #5C2E7E
+tertiary color: #000000
 */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&family=Raleway:wght@400;600;700&display=swap');
+
+html{
+    font-size: 62.5%;
+}
+
