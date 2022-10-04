@@ -6,7 +6,7 @@ secondary color: #5C2E7E
 tertiary color: #000000
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&family=Raleway:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abyssinica+SIL&display=swap');
 
 html{
     font-size: 62.5%;
@@ -29,7 +29,7 @@ header{
 body{
     background-color:#8BBCCC;
     color:#4C6793;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Abyssinica SIL', serif;
     margin:0;
 }
 
